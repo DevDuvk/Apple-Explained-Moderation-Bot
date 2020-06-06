@@ -1,4 +1,7 @@
 # Apple-Explained-Moderation-Bot
+
+**This repo has been archived. Further development is done on the [Focus Bot Repo](https://github.com/Freshman-Devs/Focus-Bot/).**
+
 A moderation bot for the Apple Explained Discord server.
 
 ## Config files
